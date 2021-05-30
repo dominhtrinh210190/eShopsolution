@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using eShopSolution.Data.Entities;
 
 namespace eShopSolution.Data.Entities
 {
@@ -15,8 +16,6 @@ namespace eShopSolution.Data.Entities
         public string SeoAlias { set; get; }
 
         public Category Category { get; set; }
-
-        public Language Language { get; set; }
 
     }
 }

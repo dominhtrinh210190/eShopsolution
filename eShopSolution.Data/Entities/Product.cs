@@ -4,6 +4,7 @@ using System.Text;
 
 namespace eShopSolution.Data.Entities
 {
+
     public class Product
     {
         public int Id { set; get; }

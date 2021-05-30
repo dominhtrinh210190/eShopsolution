@@ -19,7 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="EF\" />
     <Folder Include="Migrations\" />
   </ItemGroup>
 
